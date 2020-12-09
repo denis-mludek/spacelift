@@ -15,6 +15,7 @@ Design goals
 - Cover 95% of frontend data transformation needs without becoming a bloated lib just to cover the remaining 5%
 - Use an OO style as it's the most convenient one without an `|>` operator directly in the language (fingers crossed)
 
+![image](https://user-images.githubusercontent.com/5928836/101668862-62d7bd80-3a51-11eb-938e-384505307379.png)
 
 * [How to use](#howtouse)
 * [Examples](#examples)
